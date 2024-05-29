@@ -1,4 +1,5 @@
 # FRONTEND POKEDEX
+[DEPLOY LINK](frontend-pokedex-theta.vercel.app)
 
 
 O Pokedex é um site de pokémons que possui três páginas: Home, Pokedex e Detalhes.
